@@ -1,0 +1,7 @@
+pandas==1.1.5
+numpy==1.19.2
+scikit-learn
+tensorflow==2.6.2
+pyre2
+gensim==4.1.2
+protobuf==3.20.*
